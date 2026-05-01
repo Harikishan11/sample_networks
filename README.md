@@ -2,4 +2,4 @@
 
 Simple codes for basic CNN networks
 <br>
-Author: Harikishan 
+Author: Harikishan  (Repala)
